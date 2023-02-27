@@ -1,0 +1,8 @@
+cosas a considerar en un algoritmo:
+- comportamiento de un algoritmo
+- velocidad de un algoritmo
+- requisitos de memoria de un algoritmo
+- las principales tecnicas que utiliza un algoritmo
+Un buen algoritmo debe tener tres características: corrección, mantenibilidad y eficiencia.
+Terminos:
+- rendimiento asintótico del programa (Big O Notation)

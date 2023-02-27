@@ -1,0 +1,15 @@
+C:\Users\LVW9LV655\Desktop\proyect\netlab\src\algorithm\RamdonData\bin\Debug\net7.0\RamdonData.exe
+C:\Users\LVW9LV655\Desktop\proyect\netlab\src\algorithm\RamdonData\bin\Debug\net7.0\RamdonData.deps.json
+C:\Users\LVW9LV655\Desktop\proyect\netlab\src\algorithm\RamdonData\bin\Debug\net7.0\RamdonData.runtimeconfig.json
+C:\Users\LVW9LV655\Desktop\proyect\netlab\src\algorithm\RamdonData\bin\Debug\net7.0\RamdonData.dll
+C:\Users\LVW9LV655\Desktop\proyect\netlab\src\algorithm\RamdonData\bin\Debug\net7.0\RamdonData.pdb
+C:\Users\LVW9LV655\Desktop\proyect\netlab\src\algorithm\RamdonData\obj\Debug\net7.0\RamdonData.csproj.AssemblyReference.cache
+C:\Users\LVW9LV655\Desktop\proyect\netlab\src\algorithm\RamdonData\obj\Debug\net7.0\RamdonData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LVW9LV655\Desktop\proyect\netlab\src\algorithm\RamdonData\obj\Debug\net7.0\RamdonData.AssemblyInfoInputs.cache
+C:\Users\LVW9LV655\Desktop\proyect\netlab\src\algorithm\RamdonData\obj\Debug\net7.0\RamdonData.AssemblyInfo.cs
+C:\Users\LVW9LV655\Desktop\proyect\netlab\src\algorithm\RamdonData\obj\Debug\net7.0\RamdonData.csproj.CoreCompileInputs.cache
+C:\Users\LVW9LV655\Desktop\proyect\netlab\src\algorithm\RamdonData\obj\Debug\net7.0\RamdonData.dll
+C:\Users\LVW9LV655\Desktop\proyect\netlab\src\algorithm\RamdonData\obj\Debug\net7.0\refint\RamdonData.dll
+C:\Users\LVW9LV655\Desktop\proyect\netlab\src\algorithm\RamdonData\obj\Debug\net7.0\RamdonData.pdb
+C:\Users\LVW9LV655\Desktop\proyect\netlab\src\algorithm\RamdonData\obj\Debug\net7.0\RamdonData.genruntimeconfig.cache
+C:\Users\LVW9LV655\Desktop\proyect\netlab\src\algorithm\RamdonData\obj\Debug\net7.0\ref\RamdonData.dll
